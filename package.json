@@ -1,0 +1,16 @@
+{
+  "name": "script-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "min": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
